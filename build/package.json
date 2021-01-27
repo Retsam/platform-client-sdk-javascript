@@ -6,6 +6,7 @@
   "main": "dist/node/purecloud-platform-client-v2.js",
   "types": "index.d.ts",
   "jsnext:main": "src/purecloud-platform-client-v2/index.js",
+  "module": "src/purecloud-platform-client-v2/index.js",
   "browser": "dist/web-cjs/purecloud-platform-client-v2.min.js",
   "files": [
     "dist/*",
